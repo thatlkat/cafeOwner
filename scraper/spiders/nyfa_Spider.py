@@ -1,4 +1,8 @@
-# [e.g., nyfa_spider.py]
+# nyfa_spider.py:
+
+# SITE_NAME = "New York Foundation for the Arts (NYFA)"
+# BASE_URL = "https://www.nyfa.org/"
+# need to find the specific path to their opportunities/listings page
 import requests
 from bs4 import BeautifulSoup
 import time
