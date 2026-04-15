@@ -1,4 +1,4 @@
-# art_call_scraper/spiders/cafe_spider.py
+# cafeOwner/scraper/spiders/cafe_spider.py
 import scrapy
 from art_call_scraper.items import ArtCallItem
 
