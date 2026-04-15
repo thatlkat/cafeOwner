@@ -1,0 +1,15 @@
+# For making HTTP requests
+requests==2.31.0
+
+# For parsing HTML content
+beautifulsoup4==4.12.3
+lxml==5.2.1 # A fast parser often used with BeautifulSoup
+
+# Google Firebase Admin SDK for Python
+# To interact with Firestore, etc., from your scraper backend
+firebase-admin==6.5.0
+
+# Optional: For handling websites with heavy JavaScript rendering
+# Uncomment these lines if you find you need to use Selenium
+# selenium==4.21.0
+# webdriver-manager==4.0.1
